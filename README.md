@@ -1,1 +1,1 @@
- coucou voila la phrase modifiée
+﻿ coucou voila la phrase modifiée avec emoji 🐱🐱🐱🐱🐱🐱🐱🐱🐱
